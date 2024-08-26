@@ -18,7 +18,7 @@ To leverage my cybersecurity expertise, experience in achieving NERC-CIP and SOC
 
 ## Tools
 
-#### Network
+### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -39,12 +39,14 @@ To leverage my cybersecurity expertise, experience in achieving NERC-CIP and SOC
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://credly.com/badges/c6458414-fb5a-43d7-9b68-96689abd5781/public_url"><img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=black"/>
-<a href="https://credly.com/badges/09bdd78e-857f-4d8b-aef9-4ea87acf3667/public_url"><img src="https://img.shields.io/badge/cc-%23468145?style=for-the-badge&logo=isc2&logoColor=white" />
-<a href="https://credly.com/badges/09bdd78e-857f-4d8b-aef9-4ea87acf3667/public_url"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<a href="https://credly.com/badges/9e9e2796-0524-4397-ab90-29e0b79ad76d"><img src="https://img.shields.io/badge/CISCO%20Junior%20Cybersecurity%20Analyst-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://credly.com/badges/c6458414-fb5a-43d7-9b68-96689abd5781/public_url"><img src="https://img.shields.io/badge/Security%2B-%23C8202F?logo=comptia&logoColor=black"/></a>
+<div><a href="https://credly.com/badges/09bdd78e-857f-4d8b-aef9-4ea87acf3667/public_url"><img src="https://img.shields.io/badge/cc-%23468145?logo=isc2&logoColor=white" /></a>
+<div><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-%23232F3E?logo=amazonwebservices&logoColor=white" /></a>
+<div><a href="https://credly.com/badges/9e9e2796-0524-4397-ab90-29e0b79ad76d"><img src="https://img.shields.io/badge/CISCO%20Junior%20Cybersecurity%20Analyst-%231BA0D7?logo=cisco&logoColor=white" /></a>
+<div><a href="https://credly.com/badges/d7cf0a36-98f3-4b9c-b4c1-e54c4c5b8cb0/public_url"><img src="https://img.shields.io/badge/CISCO%20Cyber%20Threat%20Management-%231BA0D7?logo=cisco&logoColor=white" /></a>
+<div><a href="https://credly.com/badges/91258efd-f028-45c6-9526-3172f2e1f6f8/public_url"><img src="https://img.shields.io/badge/CISCO%20Endpoint%20Security%20-%231BA0D7?logo=cisco&logoColor=white" /></a>
+
 
 </div>
 
