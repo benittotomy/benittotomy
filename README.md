@@ -1,19 +1,15 @@
 # Hello, I'm Benitto Tomy
 <a href="https://linkedin.com/in/benitto-tomy"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my cybersecurity expertise, experience in achieving NERC-CIP and SOC 2 compliance, and strong analytical skills to contribute as a Tier 1 Analyst within a Security Operations Center (SOC). I am committed to utilizing my hands-on experience with SOC home lab environments, risk assessment, and incident response to enhance organizational security posture. I am eager to apply my knowledge of cybersecurity frameworks, dedication to continuous improvement through certifications such as CISSP, and ability to collaborate effectively with cross-functional teams to safeguard against emerging cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://gooogle.com">Detection Lab</a>|
+| Home Lab         | <a href="https://github.com/benittotomy/Home-Lab">Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -21,9 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+#### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -46,11 +41,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://credly.com/badges/c6458414-fb5a-43d7-9b68-96689abd5781/public_url"><img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=black"/>
+<a href="https://credly.com/badges/09bdd78e-857f-4d8b-aef9-4ea87acf3667/public_url"><img src="https://img.shields.io/badge/cc-%23468145?style=for-the-badge&logo=isc2&logoColor=white" />
+<a href="https://credly.com/badges/09bdd78e-857f-4d8b-aef9-4ea87acf3667/public_url"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<a href="https://credly.com/badges/9e9e2796-0524-4397-ab90-29e0b79ad76d"><img src="https://img.shields.io/badge/CISCO%20Junior%20Cybersecurity%20Analyst-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
 </div>
 
 ## Projects
