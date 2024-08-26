@@ -47,8 +47,12 @@ To leverage my cybersecurity expertise, experience in achieving NERC-CIP and SOC
 <div><a href="https://credly.com/badges/d7cf0a36-98f3-4b9c-b4c1-e54c4c5b8cb0/public_url"><img src="https://img.shields.io/badge/CISCO%20Cyber%20Threat%20Management-%231BA0D7?logo=cisco&logoColor=white" /></a>
 <div><a href="https://credly.com/badges/91258efd-f028-45c6-9526-3172f2e1f6f8/public_url"><img src="https://img.shields.io/badge/CISCO%20Endpoint%20Security%20-%231BA0D7?logo=cisco&logoColor=white" /></a>
 
-
 </div>
+
+## Frameworks
+* NERC-CIP
+* SOC2
+
 
 ## Projects
 - Detection Lab
